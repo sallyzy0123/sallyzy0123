@@ -5,11 +5,15 @@
 
 - 💪 I am Ying Zhang, a passionate software development student at Metropolia University of Applied Science.
   
-- 📚 My specialization is Mobile Solution, and I am enthusiastic about searching for innovative solutions for web and mobile development issues.
-  
-- 🌸 Naturally curious, open-minded, and quickly adaptive to the new culture, I love to work in a team and share with members.
-  
+- 📚 My specialization is Mobile Solutions, and I am enthusiastic about searching for innovative solutions for web and mobile development issues.
+    
 - 🔭 I’m currently working on [HelloThere project](https://github.com/sallyzy0123/Hello-There) for a startup.
+  
+- 💻 I'm donating my spare time to study Java and Python recently.
+  
+- 🙌 I am open to any potential job positions or opportunities in software development or full-stack development. If you happen to know of any hidden job positions, I would be extremely grateful to get informed.
+
+- 🌸 Naturally curious, open-minded, and quickly adaptive to the new culture, I love to work in a team and share with members.
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/sallyzy0123)
 
