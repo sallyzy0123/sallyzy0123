@@ -17,6 +17,8 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/sallyzy0123)
 
+- 🗂️ Check out my [portfolio](https://sallyzy0123.github.io/)
+
 - 📫 How to reach me **sally_zy@protonmail.com**
 
 - 📄 Know about my experiences [Linkedln](https://www.linkedin.com/in/ying-zhang-49947522b/)
