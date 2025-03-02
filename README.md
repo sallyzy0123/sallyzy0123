@@ -3,11 +3,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sallyzy0123&label=Profile%20views&color=0e75b6&style=flat" alt="sallyzy0123" /> </p>
 <Img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/96/99/98/969998ab8378405914afda9d34323a69.jpg">
 
-💪 I am Ying Zhang, a passionate full-stack developer at Slush and a 4th-year IT student at the Metropolia University of Applied Science, aiming to graduate in 2025. My journey at Slush has inspired me to reflect on my career path, and I've realized that this is just the beginning rather than a final destination to settle down. I'm open to new opportunities in the tech industry, so feel free to connect with me on LinkedIn or via email!
+- 💪 I am Ying Zhang, a passionate full-stack developer at Slush and a 4th-year IT student at the Metropolia University of Applied Science, aiming to graduate in 2025. My journey at Slush has inspired me to reflect on my career path, and I've realized that this is just the beginning rather than a final destination to settle down. I'm open to new opportunities in the tech industry, so feel free to connect with me on LinkedIn or via email!
   
 - 📚 My specialization is Mobile Solutions, and I am enthusiastic about searching for innovative solutions for web and mobile development issues.
     
-- 🔭 I’m currently working at Slush, building and maintaining a digital tool for both internal and external users in the startup ecosystem. Our mission is to create and help founders who are changing the world, and I’m deeply motivated by the impact we create.
+- 🔭 I’m currently working at Slush, building and maintaining web and mobile apps for both internal and external users in the startup ecosystem. Our mission is to create and help founders who are changing the world, and I’m deeply motivated by the impact we create.
   
 - 💻 In my spare time, I've been focused on my thesis, where I explore the practicality of the Monorepo approach. My research evaluates its benefits and challenges, feasibility, performance, maintenance, and deployment using Next.js, NestJS, PostgreSQL, and Docker.
   
